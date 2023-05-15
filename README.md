@@ -2,7 +2,7 @@
 
 # Software Engineer 
 > #### If you don't encrypt, you're unequipped
-`Peter Nyando`
+
 
 - 👋 Hi, I’m @anomalous254
 - 👀 I’m interested in CyberSecurity and Software devlopments...
