@@ -1,3 +1,6 @@
+# Software Engineer 
+> #### If you don't encrypt, you're unequipped
+
 - 👋 Hi, I’m @anomalous254
 - 👀 I’m interested in CyberSecurity and Software devlopments...
 - 🌱 I’m a Software Engineer...
