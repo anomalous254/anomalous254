@@ -2,11 +2,7 @@
 
 # Software Engineer 
 > #### If you don't encrypt, you're unequipped
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-> -----------------------------------------------------------------------------------------------------------------
+> ##### `Peter Nyando`
 
 - 👋 Hi, I’m @anomalous254
 - 👀 I’m interested in CyberSecurity and Software devlopments...
