@@ -1,8 +1,7 @@
 
-
 # Software Engineer 
 > #### If you don't encrypt, you're unequipped
-
+<img src="https://komarev.com/ghpvc/?username=anomalous254&style=flat-square&color=blue" alt=""/>
 
 - 👋 Hi, I’m @anomalous254
 - 👀 I’m interested in CyberSecurity and Software devlopments...
