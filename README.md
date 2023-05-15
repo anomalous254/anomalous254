@@ -14,7 +14,7 @@ anomalous254/anomalous254 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-### :hammer_and_wrench: Languages and Tools :
+##### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: Contact Me :
+##### :fire: Contact Me :
 <div id="badges">
   <a href="https://www.youtube.com/channel/UCULPNOINQP29G1QBkyHgZFQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -38,5 +38,5 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-### :fire: Happy Coding :
+##### :fire: Happy Coding :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skeeperloyaltie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
