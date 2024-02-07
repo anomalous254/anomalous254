@@ -21,4 +21,3 @@
 #### :fire: Happy Coding :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anomalous254&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anomalous254)](https://github.com/anuraghazra/github-readme-stats)
